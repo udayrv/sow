@@ -47,4 +47,4 @@ if submit:
 
     mydb.close()
 
-    print("Insertion Successful")
+print("Insertion Successful")
