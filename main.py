@@ -44,7 +44,8 @@ if submit:
     else:
         print("Database Not Connected")
         #Closing Database connection after writing the data.
-
+    
+    print("Insertion Successful")
     mydb.close()
 
-print("Insertion Successful")
+    
